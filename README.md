@@ -19,11 +19,11 @@
 - 🤝 I'm looking for help with *Learning web design, backend, and system thinking*
 - 💬 Ask me about *Express and Web development*
 - 📫 How to reach me: *phamtuanhuy1109@gmail.com*
-- ⚡ Fun fact: *I'm an introvert, but I'm always ready to ask questions to understand topics deeply.*
+- ⚡ Fun fact: *I'm an introvert, but I'm always ready to ask questions to understand topics deeply. And I use arch btw*
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,express,mongodb,mysql,docker,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,express,mongodb,mysql,docker,git,postman,vscode,linux,arch" />
 </p>
 
 ### 🔗 Connect with me:
