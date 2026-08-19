@@ -18,7 +18,7 @@
 - 👯 I'm looking to collaborate on *Web and AI projects*
 - 🤝 I'm looking for help with *Learning web design, backend, and system thinking*
 - 💬 Ask me about *Express and Web development*
-- 📫 How to reach me: *thinhnguyen672007@gmail.com*
+- 📫 How to reach me: *phamtuanhuy1109@gmail.com*
 - ⚡ Fun fact: *I'm an introvert, but I'm always ready to ask questions to understand topics deeply.*
 
 ### 🛠 Languages and Tools:
